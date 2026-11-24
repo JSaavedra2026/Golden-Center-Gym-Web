@@ -1,0 +1,3 @@
+Evidencia GA7-220501096-AA2-EV02 - Módulos de software codificados y probados
+Proyecto: Sistema de Gestión Golden Center Gym
+Repositorio: https://github.com/JSaavedra2026/Golden-Center-Gym-Web
